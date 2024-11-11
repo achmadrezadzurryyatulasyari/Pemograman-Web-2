@@ -11,7 +11,7 @@
 
   <div class="container">
     <div class="row">
-        <div class="col-12">
+        <div class=>
             <h1>DAFTAR BUKU</h1>
             <div class="my-3">
             <button data-bs-toggle="modal" data-bs-target="#tambahmodal" class="btn btn-primary"><i class="bi bi-plus-circle"></i> TAMBAH</button>
